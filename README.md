@@ -6,6 +6,7 @@ Problem Statement:
 
 After a recent security audit, certain users were removed from the super.users list in the Kafka broker's server.properties file. This resulted in the Kafka Connect cluster appearing down on Confluent Control Center (localhost:9021).
 
+
 The goal is to troubleshoot and securely resolve the issue by updating the super.users list and restarting the Kafka services.
 
 Prerequisites
